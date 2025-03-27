@@ -22,7 +22,7 @@ const ProductCard = ({product}) => {
                 <CardContent>
                     <Typography variant="h6">{product.title}</Typography>
                     <Typography variant="body2">{product.description}</Typography>
-                    <Typography variant="h5">{product.price}$</Typography>
+                    <Typography variant="h5">{product.price}₽</Typography>
                     <Button
                         variant="contained"
                         onClick={() => dispatch(addToCart(product))}

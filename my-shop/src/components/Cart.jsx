@@ -31,7 +31,7 @@ const Cart = () => {
                         </motion.div>
                     ))}
                 </List>
-                <Typography variant="h6">Общая стоимость: {total}$</Typography>
+                <Typography variant="h6">Общая стоимость: {total}₽</Typography>
                 <Button onClick={() => dispatch(clearCart())} variant="contained"
                         color="error" sx={{mt: 2}}>
                     Очистить корзину
