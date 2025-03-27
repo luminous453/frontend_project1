@@ -6,7 +6,7 @@
       "price": 45000,
       "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1i0QukP84x4UZ1MQkAW1INZMSJZSVsfpqdw&s",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.7
     },
     {
@@ -15,7 +15,7 @@
       "price": 60000,
       "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.8
     },
     {
@@ -24,7 +24,7 @@
       "price": 25000,
       "description": "Беспроводные, шумоподавление, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.9
     },
     {
@@ -33,7 +33,7 @@
       "price": 3000,
       "description": "Цветной AMOLED-экран, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.6
     },
     {
@@ -42,7 +42,7 @@
       "price": 55000,
       "description": "10.9 дюймов, 64 ГБ, Space Gray",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.8
     },
     {
@@ -51,7 +51,7 @@
       "price": 150000,
       "description": "Зеркальный, 20 Мп, 4K видео",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.9
     },
     {
@@ -60,7 +60,7 @@
       "price": 40000,
       "description": "27 дюймов, 4K, IPS",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.7
     },
     {
@@ -69,7 +69,7 @@
       "price": 5000,
       "description": "11 программируемых кнопок, RGB",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.8
     },
     {
@@ -78,7 +78,7 @@
       "price": 7000,
       "description": "Механическая, Bluetooth, 65%",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.7
     },
     {
@@ -87,7 +87,7 @@
       "price": 8000,
       "description": "Портативная, водонепроницаемая, синий",
       "image": "https://picsum.photos/150/150?random",
-      "category": "electronics",
+      "category": "Электроника",
       "rating": 4.6
     },
     {
@@ -96,7 +96,7 @@
       "price": 1500,
       "description": "Хлопок, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.5
     },
     {
@@ -105,7 +105,7 @@
       "price": 3000,
       "description": "Скинни, синий",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.6
     },
     {
@@ -114,7 +114,7 @@
       "price": 10000,
       "description": "Пуховая, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.7
     },
     {
@@ -123,7 +123,7 @@
       "price": 8000,
       "description": "Беговые, белый",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.8
     },
     {
@@ -132,7 +132,7 @@
       "price": 5000,
       "description": "Повседневный, синий",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.6
     },
     {
@@ -141,7 +141,7 @@
       "price": 12000,
       "description": "Ударопрочные, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.7
     },
     {
@@ -150,7 +150,7 @@
       "price": 9000,
       "description": "Солнцезащитные, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.8
     },
     {
@@ -159,7 +159,7 @@
       "price": 1000,
       "description": "Шерсть, серый",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.5
     },
     {
@@ -168,7 +168,7 @@
       "price": 7000,
       "description": "Шелк, черный",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.7
     },
     {
@@ -177,7 +177,7 @@
       "price": 6000,
       "description": "Кожа, бежевый",
       "image": "https://picsum.photos/150/150?random",
-      "category": "clothing",
+      "category": "Одежда",
       "rating": 4.6
     },
     {
@@ -186,7 +186,7 @@
       "price": 500,
       "description": "Джордж Оруэлл",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.9
     },
     {
@@ -195,7 +195,7 @@
       "price": 600,
       "description": "Михаил Булгаков",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.8
     },
     {
@@ -204,7 +204,7 @@
       "price": 700,
       "description": "Джоан Роулинг",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.9
     },
     {
@@ -213,7 +213,7 @@
       "price": 800,
       "description": "Лев Толстой",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.7
     },
     {
@@ -222,7 +222,7 @@
       "price": 550,
       "description": "Федор Достоевский",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.8
     },
     {
@@ -231,7 +231,7 @@
       "price": 400,
       "description": "Антуан де Сент-Экзюпери",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.9
     },
     {
@@ -240,7 +240,7 @@
       "price": 650,
       "description": "Пауло Коэльо",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.7
     },
     {
@@ -249,7 +249,7 @@
       "price": 750,
       "description": "Эрих Мария Ремарк",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.8
     },
     {
@@ -258,7 +258,7 @@
       "price": 900,
       "description": "Грегори Дэвид Робертс",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.7
     },
     {
@@ -267,7 +267,7 @@
       "price": 850,
       "description": "Грегори Дэвид Робертс",
       "image": "https://picsum.photos/150/150?random",
-      "category": "books",
+      "category": "Книги",
       "rating": 4.8
     }
     ]
