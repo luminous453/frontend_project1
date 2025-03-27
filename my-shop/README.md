@@ -3,22 +3,22 @@
 
 
 
-### Инструкция настройка проекта
-1. Клонируем проект со свеми файлами с помощью 
+### Инструкция
+1. Клонируем проект с файлами 
     ```shell
-    git clone https://github.com/Kemuni/prak5-my-shop.git
+    git clone https://github.com/luminous453/frontend_project1
    ```
-2. Устанавливаем все зависимости для запуска проекта
+2.
     ```shell
     npm install
    ```
-3. Запускаем backend-сервер с mock-API на 3001 порту, где хранятся все данные о товарах
+3. Запускаем сервер 
     ```shell
     npx json-server --watch public/data.json --port 3001
    ```
-   Теперь по ссылке `http://localhost:3001/products` доступны данные о товарах.
-4. Запускаем frontend-сервер.
+   По ссылке `http://localhost:3001/products` данные о товарах.
+4. Запускаем сервер.
     ```shell
     npm run dev
    ```
-   Теперь по ссылке `http://localhost:5137/` можно взаимодействовать с нашим веб-сайтом.
+   Сайт: `http://localhost:5137/` 

@@ -1,10 +1,8 @@
 import React from 'react';
 import {useSelector, useDispatch} from 'react-redux';
 import {removeFromCart, clearCart} from '../features/cartSlice';
-import {Card, CardContent, Typography, Button, List, ListItem, ListItemText, Box} from
+import {Card, CardContent, Typography, Button, List, ListItem, ListItemText} from
         '@mui/material';
-import ShoppingCartOutlinedIcon  from '@mui/icons-material/ShoppingCartOutlined';
-import DeleteOutlinedIcon  from '@mui/icons-material/DeleteOutlined';
 import {motion} from 'framer-motion';
 
 const Cart = () => {
@@ -13,10 +11,7 @@ const Cart = () => {
     return (
         <Card sx={{maxWidth: '100%', margin: 2, boxShadow: 3}}>
             <CardContent>
-                <Box sx={{display: "flex", gap: 2}}>
-                    <Typography variant="h6">Корзина</Typography>
-                    <ShoppingCartOutlinedIcon />
-                </Box>
+                <Typography variant="h6">Корзина</Typography>
                 <List>
                     {items.map((item) => (
                         <motion.div
@@ -38,7 +33,7 @@ const Cart = () => {
                 </List>
                 <Typography variant="h6">Общая стоимость: {total}$</Typography>
                 <Button onClick={() => dispatch(clearCart())} variant="contained"
-                        color="error" sx={{mt: 2}} endIcon={<DeleteOutlinedIcon />}>
+                        color="error" sx={{mt: 2}}>
                     Очистить корзину
                 </Button>
             </CardContent>
