@@ -23,7 +23,7 @@ const Cart = () => {
                             <ListItem>
                                 <ListItemText
                                     primary={item.title}
-                                    secondary={`${item.quantity} x ${item.price}$`}
+                                    secondary={`${item.quantity} x ${item.price}₽`}
                                 />
                                 <Button onClick={() =>
                                     dispatch(removeFromCart(item))}>Удалить</Button>
